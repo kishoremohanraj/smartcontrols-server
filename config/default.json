@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey":"smartControls",
+    "db":"mongodb://localhost/testdb",
+    "requiresAuth":true
+}
